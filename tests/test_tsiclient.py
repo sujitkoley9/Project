@@ -2,7 +2,7 @@ import pytest
 import requests
 import pandas as pd
 from collections import namedtuple
-from TSIClient.exceptions import TSIEnvironmentError, TSIStoreError, TSIQueryError
+from test_sample.exceptions import TSIEnvironmentError, TSIStoreError, TSIQueryError
 from tests.mock_responses import MockURLs, MockResponses
 
 
