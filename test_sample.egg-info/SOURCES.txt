@@ -1,0 +1,11 @@
+README.md
+setup.cfg
+setup.py
+test_sample/TSIClient.py
+test_sample/__init__.py
+test_sample/exceptions.py
+test_sample.egg-info/PKG-INFO
+test_sample.egg-info/SOURCES.txt
+test_sample.egg-info/dependency_links.txt
+test_sample.egg-info/requires.txt
+test_sample.egg-info/top_level.txt
