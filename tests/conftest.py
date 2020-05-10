@@ -1,6 +1,6 @@
 import os
 import pytest
-from TSIClient import TSIClient as tsi
+from test_sample import TSIClient as tsi
 
 
 @pytest.fixture(scope="module")
