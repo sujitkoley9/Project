@@ -7,7 +7,7 @@ with open('README.md') as f:
 setup(
   name = 'test_sample',
   packages = ['test_sample'],
-  version = '1.0.3',
+  version = '1.0.4',
   license='MIT',
   long_description=long_description,
   long_description_content_type='text/markdown',
